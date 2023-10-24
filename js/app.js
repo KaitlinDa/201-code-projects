@@ -1,3 +1,5 @@
+'use strict';
+
 let userName = prompt('Please enter your name:');
 
 if (userName !== null && userName !== '') {
