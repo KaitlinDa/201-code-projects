@@ -12,6 +12,6 @@ Kaitlin Davis
 
 ### Lighthouse Accessibility Report Score
 
-![Lighthouse Screenshot](img/lighthouse.png)
+![Lighthouse Screenshot](Lighthouse.png)
 
 ### Reflections and Comments

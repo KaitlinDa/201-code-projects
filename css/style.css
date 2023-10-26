@@ -1,0 +1,12 @@
+/* All elements in CSS will need to be added here or it will not display. Can google for specifics */
+ol {
+    list-style-type:decimal;
+    margin-left: 40px;
+}
+ul {
+    list-style-type:disc;
+    margin-left: 40px;
+}
+*{
+    background-color: rgb(0, 255, 221);
+}
