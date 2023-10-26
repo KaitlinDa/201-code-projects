@@ -40,6 +40,7 @@ questionYesNo('Question 3: Is my favorite color black?', 'yes');
 questionYesNo('Question 4: Was I born outside of the United States?', 'no');
 questionYesNo('Question 5: Am I right handed?', 'yes');
 
+function dogGame() {
 let correctDog = 3;
 let tries = 0;
 
@@ -65,7 +66,11 @@ while (tries < 4) {
 if (tries === 4) {
   alert('Good try! You have used all 4 attempts. The correct answer is ' + correctDog + ' dogs.');
 }
+}
 
+dogGame();
+
+function pickCandy() {
 let favCandyChoices = ['snickers', 'm&ms', 'kitkats'];
 let attempts = 6;
 let candyChoice = false;
@@ -90,4 +95,6 @@ if (!candyChoice) {
 alert('You got ' + rightAnswers + ' correct out of 7 questions.');
 
 alert('Thank you for playing ' + userName);
+}
 
+pickCandy();
