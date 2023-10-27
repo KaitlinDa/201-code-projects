@@ -15,3 +15,6 @@ Kaitlin Davis
 ![Lighthouse Screenshot](Lighthouse.png)
 
 ### Reflections and Comments
+
+Driver: Niles Thompson
+Navigator: Kaitlin Davis
